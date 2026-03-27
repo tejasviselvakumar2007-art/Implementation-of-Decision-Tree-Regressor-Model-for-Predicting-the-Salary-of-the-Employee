@@ -62,7 +62,8 @@ print("Predicted Salary:", dt.predict([[5,6]]))
 ```
 
 ## Output:
-<img src="https://img.sanishtech.com/u/3fe0e20071498461e414f00b63f90426.png" alt="Screenshot 2026-03-19 105021" width="1919" height="956" loading="lazy" style="max-width:100%;height:auto;">
+<img width="1916" height="960" alt="Screenshot 2026-03-27 235747" src="https://github.com/user-attachments/assets/6b823537-8a1e-4780-b7ff-605a6a2a3a2a" />
+
 
 
 ## Result:
